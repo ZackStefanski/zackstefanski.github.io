@@ -1,0 +1,19 @@
+#musictable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#musictable th:nth-child(1),
+#musictable td:nth-child(1) {
+    width: 25%;
+}
+
+#musictable th:nth-child(2),
+#musictable td:nth-child(2) {
+    width: 25%;
+}
+
+#musictable th:nth-child(3),
+#musictable td:nth-child(3) {
+    width: 50%;
+}
